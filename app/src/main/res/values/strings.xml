@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Film</string>
+
+    <string-array name="data_name">
+        <item>AQUAMAN</item>
+        <item>AVENGERS INFINITY"</item>
+        <item>BUMBLEBEE</item>
+        <item>ONCE UPON a DEADPOOL</item>
+        <item>HOW TO TRAIN YOUR DRAGON : THE HIDDEN WORLD</item>
+        <item>DRAGON BALL SUPER : BROLY</item>
+        <item>GLASS</item>
+        <item>MORTAL ENGINES</item>
+        <item>PREMAN PENSIUN</item>
+        <item>ROBIN HOOD</item>
+        <item>VENOM</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan. Yang menghalangi jalannya adalah Arthur Curry, saudara tiri manusia setengah manusia Orm dan pewaris sejati takhta.</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti.</item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie menghidupkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa.</item>
+        <item>Fred Savage yang diculik dipaksa untuk menahan Deadpool PG-13 rendition Deadpool 2 sebagai kisah Putri Pengantin yang penuh keajaiban, keajaiban dan nol F.</item>
+        <item>Ketika Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless tentang pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Ketika bahaya meningkat di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka.</item>
+        <item>Bumi damai setelah Turnamen Kekuasaan. Menyadari bahwa alam semesta masih memiliki banyak orang yang lebih kuat untuk dilihat, Goku menghabiskan seluruh hari pelatihannya untuk mencapai ketinggian yang lebih besar. Lalu suatu hari, Goku dan Vegeta dihadapkan oleh seorang Saiyan bernama \'Broly\' yang belum pernah mereka lihat sebelumnya.</item>
+        -->
+        <item>Ribuan tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami pertemuan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai orkestra yang menyimpan rahasia penting bagi keduanya.</item>
+        <item>Setelah tiga tahun, bisnis Muslihat (Epi Kusnandar), yang telah pensiun sebagai preman, memiliki masalah. Penurunan penjualan. Muslihat juga menghadapi masalah baru ketika Safira (Safira Maharani), satu-satunya anak perempuannya, tumbuh dewasa dan mulai dikunjungi oleh anak laki-laki. Masalah yang lebih besar: gesekan antara mantan bawahannya.</item>
+        <item>Seorang Tentara Salib yang diperkeras perang dan komandan Moornya melakukan pemberontakan yang berani melawan mahkota Inggris yang korup.</item>
+        <item>Jurnalis investigasi Eddie Brock berusaha untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri.</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_venom</item>
+
+    </array>
+
+
+    <string-array name="skor_pengguna">
+        <item>68%</item>
+        <item>83%</item>
+        <item>66%</item>
+        <item>69%</item>
+        <item>77%</item>
+        <item>75%</item>
+        <item>66%</item>
+        <item>75%</item>
+        <item>75%</item>
+        <item>75%</item>
+        <item>60%</item>
+    </string-array>
+
+    <string-array name="tahun_euy">
+        <item>(2018)</item>
+        <item>(2018)</item>
+        <item>(2018)</item>
+        <item>(2018)</item>
+        <item>(2019)</item>
+        <item>(2018)</item>
+        <item>(2019)</item>
+        <item>(2018)</item>
+        <item>(2019)</item>
+        <item>(2018)</item>
+        <item>(2018)</item>
+    </string-array>
+
+    <string-array name="genre_euy">
+        <item>Aksi,Petualangan,\nFantasi</item>
+        <item>Petualangan,Aksi, \nFiksi Ilmiah</item>
+        <item>Aksi,Petualangan, \nFiksi Ilmiah</item>
+        <item>Komedi,Aksi</item>
+        <item>Keluarga,Animasi,\nPetualangan</item>
+        <item>Aksi,Fiksi Ilmiah,Animasi</item>
+        <item>Thriller,Drama,\nFiksi Ilmiah</item>
+        <item>Fantasy,Petualangan</item>
+        <item>Komedi,Drama</item>
+        <item>Petualangan,Aksi,\nThriller</item>
+        <item>Fiksi Ilmiah,Aksi</item>
+    </string-array>
+</resources>
